@@ -1,4 +1,4 @@
-# nameslist
+# coursepages
 
 An application that displays a list of names for the startup
 
